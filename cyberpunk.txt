@@ -1,0 +1,29 @@
+Notes on Cyberpunk
+
+1. History
+a. Origins
+Cyberpunk, as a subgenre, emerged in science ficton's New Wave of the 1980s.  Within science fiction, it was seen as a reaction to the mainstream.  Science fiction at the time was dominated by space opera, on the one had by action hero cliches rooted in pulp sci-fi, and the other by idea-based SF in style of Asimov, based on scientific abstractions that, while interesting, were divorced from social themes or characterization in depth.  Outside the mainstream, in more socially relevant fiction, readers were growing disillusioned with the hippy, New-Age influenced writers like Silverburg and hard-core libertarian writers like van Vogt.
+
+The New Wave writers embraced post-modernism and the literary SF writers such as Ursula K. Leguin and Samuel Delaney, who were gaining reputation but hadn't yet had much influence on the genre as a whole.  There were a lot of writers coming up who loved SF but were trained in the liberal arts rather than engineering.
+
+Robotics had been common in SF but, but there were few writers who really understood the potential of the Information Revolution.  WETWARE by Rudy Rucker and SIMULACRON-3 by Daniel Galouve were notable influences. 
+
+Many of the New Wave writers had been born in the 1950s post-war boom and grew up in the hippy movement of the 1960s.  The economic decline of the 70s and 80s, at least in the traditional economic sectors such as manufacturing, were profoundly disturbing.  The Cold War tensions had only ever been increasing, and the rising anti-nuclear movement and environmental movements often adopted a Malthusian perspective.  There were too many people and not enough resources, and the OPEC crises appeared to be a harbinger of a new balance of power.
+
+The Vietnam War was a recent memory, and I don't think its influence gets mentioned enough.  Military characters have always been very common in SF.  In the 60s, In STARSHIP TROOPERS (Heinlein) and Pournelle's Falkenberg's Legion stories, the military was a well-organized, well-functioning organization.  There were a lot of heroes who were basically Space Army GI Bill recipients.  The disillusionment of the Vietnam War changed that.  When Haldeman's FOREVER WAR was released, it won every award in SF.  Militaries were seen as more bureaucratic and often dysfunctional, and soldier-heroes began to have traumatic backstories.
+
+(In Gibson's stories, I can't think of any military characters who weren't damaged by their experiences.  In "Burning Chrome", Automatic Jack had a prosthesis.  In NEUROMANCER, Armitage was completely a product of a horrifically failed military mission.  In COUNT ZERO, Turner is basically entirely "tragic backstory".) 
+
+The Nixon scandals, of course, wrecked people's faith in government, and the corrupt and failed regimes internationally were being reported on in much greater detail.  The failures in international development meant that people lost faith in the Rostow model of progress and the corruption of the Soviet Union was well-known (Sterling wrote an excellent series of stories about an international smuggler).  Political entities no longer supported the SF hero, but were often the nemesis.  The Reagan administration brought all of this together.
+
+b. Major Works
+- STAND ON ZANZIBAR by John Brunner, 1968, was probably the first prototype of cyberpunk, focused on the techno-Malthusian dystopia.
+- NEUROMANCER by William Gibson, 1984, The real point at which cyberpunk established itself, as a genre
+- MIRRORSHADES, edited by Bruce Sterling, was a project focused on defining cyberpunk
+- ISLANDS IN THE NET, by Bruce Sterling, 1988, focused on how the genre embraced globalism.  The protagonist is dragged around the world and sees how technology and social trends affect different parts of the world.  For example, there are Rastafarian groups running server farms, and Bedouin nomads avoiding their local government and robbing commercial traffic with solar powered dune buggies and satellite phones.
+- SNOW CRASH, by Neal Stephenson, 1992, features on the rise of corporate power and the potential of the internet.
+
+
+
+2. Power and Resistance
+One of the most consistent themes behind cyberpunk is how technology can be applied to express power.  Prototypical examples would be the surveillance state in 1984, which is enabled by telecommunications and information science advances.  Even earlier, in the utopian science fiction works such as LOOKING BACK FROM THE YEAR 2000
